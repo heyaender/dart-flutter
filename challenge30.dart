@@ -1,20 +1,12 @@
 /*
-Challenge 3 
-#1 Membuat sistem penilian dengan menggunakan if else
+Challenge 3.0
+Membuat sistem penilian dengan menggunakan if else
   91 - 100 : Sangat Baik 
   81 - 90 : Baik
   71 - 80 : Cukup
   61 - 70 : Kurang
   0 - 60 : Sangat Kurang
   <0 : Nilai Invalid
-
-#2 Membuat Penilian menggunakan switch case 
-  A = Sangat Enak
-  B = Enak
-  C = Cukup Enak
-  D = Kurang Enak
-  E = Muntah
-  Selain itu tidak valid 
 */
 
 import 'dart:io';
