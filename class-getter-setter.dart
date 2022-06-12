@@ -1,5 +1,3 @@
-import 'dart:collection';
-
 class RekeningBank {
   var namaPemilik;
   var namaBank;
